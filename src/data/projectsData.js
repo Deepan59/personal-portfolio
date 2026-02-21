@@ -2,7 +2,7 @@ export const projectsData = [
     {
         id: 1,
         name: "Bonafide Certificate System",
-        description: "A full-stack web application developed for college administration to generate and manage bonafide certificates dynamically. Includes authentication, database integration, and secure record handling for efficient certificate processing.",
+        description: "A full-stack web application developed for college administration to generate and manage bonafide certificates dynamically. Includes authentication, database integration, and secure record handling for efficient certificate processing. Note: It is a private project,so source code and live link are not available.",
         tech: ["React + Vite", "Express", "Neon"],
         image: "/projects/bonafide.jpg", // Placeholder - add image manually
         liveLink: "#",
@@ -20,7 +20,7 @@ export const projectsData = [
     {
         id: 3,
         name: "Inter College Hackathon Website",
-        description: "Developed the frontend for an inter-college hackathon event website as part of a team. Built responsive UI components, event pages, registration interface, and ensured smooth user experience.",
+        description: "Developed the frontend for an inter-college hackathon event website as part of a team. Built responsive UI components, event pages, registration interface, and ensured smooth user experience.Note: It is a private project,so source code and live link are not available.",
         tech: ["React + Vite", "Team Collaboration"],
         image: "/projects/hackathon.jpg", // Placeholder - add image manually
         liveLink: "#",
