@@ -3,7 +3,7 @@ export const projectsData = [
         id: 1,
         name: "Bonafide Certificate System",
         description: "A full-stack web application developed for college administration to generate and manage bonafide certificates dynamically. Includes authentication, database integration, and secure record handling for efficient certificate processing.",
-        tech: ["React + Vite", "Express", "Supabase"],
+        tech: ["React + Vite", "Express", "Neon"],
         image: "/projects/bonafide.jpg", // Placeholder - add image manually
         liveLink: "#",
         githubLink: "#",
@@ -12,7 +12,7 @@ export const projectsData = [
         id: 2,
         name: "AI Resume Tailor",
         description: "An AI-powered web application that customizes resumes based on job descriptions to improve job matching accuracy. Integrates database storage and dynamic content generation.",
-        tech: ["React + Vite", "Neon Database", "AI Integration"],
+        tech: ["React + Vite", "Supabase", "AI Integration"],
         image: "/projects/resume-tailor.jpg",
         liveLink: "https://ai-tailor-resume.vercel.app",
         githubLink: "https://github.com/Deepan59/Ai-tailor-resume.git",
@@ -50,7 +50,7 @@ export const projectsData = [
         description: "A frontend e-commerce UI clone replicating the core layout and product display system of Flipkart. Built using reusable React components and responsive design principles.",
         tech: ["React + Vite"],
         image: "/projects/flipkart.jpg", // Placeholder - add image manually
-        liveLink: "#",
+        liveLink: "https://flipkart-clone-five-ebon.vercel.app",
         githubLink: "https://github.com/Deepan59/flipkart-clone.git",
     },
     {

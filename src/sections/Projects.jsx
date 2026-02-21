@@ -46,8 +46,8 @@ const Projects = () => {
 
                                     {/* Hover Overlay */}
                                     <div className="absolute inset-0 bg-black bg-opacity-90 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-                                        {/* Only show buttons if not Bonafide Certificate System (id !== 1) */}
-                                        {project.id !== 1 && (
+                                        {/* Only show buttons if not Bonafide Certificate System (id !== 1) or Ignite2k26 (id !== 3) */}
+                                        {project.id !== 1 && project.id !== 3 && (
                                             <div className="flex space-x-4">
                                                 <a
                                                     href={project.liveLink}
